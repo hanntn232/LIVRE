@@ -1,0 +1,74 @@
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\MainWindow.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\MainWindow.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\LoginForm.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\Trang_ThongTinChiTietNCC.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\LoginForm.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\Trang_ThongTinChiTietNCC.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\LoginForm.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\MainWindow.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\Trang_ThongTinChiTietNCC.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\LoginForm.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\MainWindow.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\Trang_ThongTinChiTietNCC.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete

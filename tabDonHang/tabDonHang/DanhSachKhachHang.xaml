@@ -1,0 +1,29 @@
+﻿<Window x:Class="tabDonHang.DanhSachKhachHang"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tabDonHang"
+        mc:Ignorable="d"
+        Title="DanhSachKhachHang" Height="450" Width="800">
+    <Grid>
+        <ListView x:Name="LsvKhachHang" HorizontalAlignment="Left" Height="249" VerticalAlignment="Top" Width="793" Margin="0,89,0,0">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="STT" Width="40" DisplayMemberBinding="{Binding STT}"/>
+                    <GridViewColumn Header="Tên khách hàng" Width="160" DisplayMemberBinding="{Binding TenKhachHang}"/>
+                    <GridViewColumn Header="Số điện thoại" Width="100" DisplayMemberBinding="{Binding SoDienThoai}"/>
+                    <GridViewColumn Header="Địa chỉ" Width="140" DisplayMemberBinding="{Binding DiaChi}"/>
+                    <GridViewColumn Header="Tổng tiền đã mua" Width="140" DisplayMemberBinding="{Binding TongTienDaMua}"/>
+                    <GridViewColumn Header="Loại Khách Hàng" Width="110" DisplayMemberBinding="{Binding LoaiKhachHang}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBox x:Name="txtTimKiem" HorizontalAlignment="Left" Height="36" Margin="483,21,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="157" FontSize="14" FontFamily="Arial" RenderTransformOrigin="0.366,0.654" />
+        <Button x:Name="btnTimKiem" Content="Tìm kiếm" HorizontalAlignment="Stretch" Margin="376,21,322.333,364.667" VerticalAlignment="Stretch" FontSize="14" FontFamily="Arial" Click="btnTimKiem_Click"/>
+        <Label Content="Nhập số điện thoại" HorizontalAlignment="Left" Margin="507,53,0,0" VerticalAlignment="Top" Height="36" Width="121" Foreground="#FF969191" FontStyle="Italic"/>
+        <Button x:Name="btnHuyTimKiem" Content="Hủy tìm kiếm" HorizontalAlignment="Stretch" Margin="654,21,36.333,364.667" VerticalAlignment="Stretch" FontSize="14" FontFamily="Arial" Click="btnHuyTimKiem_Click" RenderTransformOrigin="0.5,0.505"/>
+        <Button x:Name="btnXuatDS" Content="Xuất danh sách" HorizontalAlignment="Stretch" Margin="317,353,322.333,31.667" VerticalAlignment="Stretch" FontSize="20" FontFamily="Arial" Click="BtnXuatDS_Click"/>
+
+    </Grid>
+</Window>

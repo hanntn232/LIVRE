@@ -1,0 +1,66 @@
+﻿<Window x:Class="tabDonHang.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tabDonHang"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1200" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="551" Margin="10,10,0,0" VerticalAlignment="Top" Width="1173">
+            <TabItem Header="Taọ đơn hàng">
+                <Grid  Background="White" Margin="284,3,317.667,-3">
+                    <Label Content="Tên khách hàng" HorizontalAlignment="Left" Margin="89,26,0,0" VerticalAlignment="Top" Width="116" FontSize="14" FontFamily="Arial"/>
+                    <TextBox x:Name="txttenKhachHang" HorizontalAlignment="Left" Height="22" Margin="243,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126" FontSize="14" FontFamily="Arial"/>
+                    <Label Content="Số điện thoại" HorizontalAlignment="Left" Margin="89,57,0,0" VerticalAlignment="Top" Width="116" FontSize="14" FontFamily="Arial"/>
+                    <TextBox x:Name="txtsoDienThoai" HorizontalAlignment="Left" Height="22" Margin="243,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126" FontSize="14" FontFamily="Arial"/>
+                    <Label Content="Địa chỉ" HorizontalAlignment="Left" Margin="89,88,0,0" VerticalAlignment="Top" Width="116" FontSize="14" FontFamily="Arial"/>
+                    <TextBox x:Name="txtdiaChi" HorizontalAlignment="Left" Height="22" Margin="243,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126" FontSize="14" FontFamily="Arial"/>
+                    <Label Content="Tên sản phẩm" HorizontalAlignment="Left" Margin="89,119,0,0" VerticalAlignment="Top" Width="116" FontSize="14" FontFamily="Arial"/>
+                    <TextBox x:Name="txttenSanPham" HorizontalAlignment="Left" Height="22" Margin="243,123,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126" FontSize="14" FontFamily="Arial"/>
+                    <Label Content="Mã sản phẩm" HorizontalAlignment="Left" Margin="89,150,0,0" VerticalAlignment="Top" Width="116" FontSize="14" FontFamily="Arial"/>
+                    <TextBox x:Name="txtmaSanPham" HorizontalAlignment="Left" Height="22" Margin="243,154,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126" FontSize="14" FontFamily="Arial"/>
+                    <Label Content="Giá" HorizontalAlignment="Left" Margin="89,208,0,0" VerticalAlignment="Top" Width="116" FontSize="14" FontFamily="Arial"/>
+                    <TextBox x:Name="txtgia" HorizontalAlignment="Left" Height="22" Margin="243,212,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126" FontSize="14" FontFamily="Arial"/>
+                    <Label Content="Phương thức &#xD;&#xA;thanh toán" HorizontalAlignment="Left" Margin="88,289,0,0" VerticalAlignment="Top" Width="95" FontSize="14" FontFamily="Arial" Height="46"/>
+                    <RadioButton x:Name="radtienMat" Content="Tiền mặt" HorizontalAlignment="Left" Margin="242,296,0,0" VerticalAlignment="Top" Height="25" Width="80" FontSize="14" FontFamily="Arial"/>
+                    <RadioButton x:Name="radchuyenKhoan" Content="Chuyển&#xD;&#xA; khoản" HorizontalAlignment="Left" Margin="341,296,0,0" VerticalAlignment="Top" Height="39" Width="80" FontSize="14" FontFamily="Arial"/>
+                    <Button x:Name="btntaoDonHang" Content="Tạo đơn hàng" HorizontalAlignment="Left" Margin="224,363,0,0" VerticalAlignment="Top" Width="145" Height="43" FontSize="20" FontFamily="Arial" Click="btntaoDonHang_Click"/>
+                    <Label Content="Ngày mua" HorizontalAlignment="Left" Margin="89,239,0,0" VerticalAlignment="Top" Width="116" FontSize="14" FontFamily="Arial" RenderTransformOrigin="0.616,-1.891"/>
+                    <TextBox x:Name="txtngayMua" HorizontalAlignment="Left" Height="22" Margin="243,243,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126" FontSize="14" FontFamily="Arial"/>
+                    <Label Content="Số lượng" HorizontalAlignment="Left" Margin="89,177,0,0" VerticalAlignment="Top" Width="116" FontSize="14" FontFamily="Arial"/>
+                    <TextBox x:Name="txtSoLuong" HorizontalAlignment="Left" Height="22" Margin="243,181,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126" FontSize="14" FontFamily="Arial"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Danh sách đơn hàng">
+                <Grid Background="White" Margin="4,25,-4.333,-25">
+                    <ListView x:Name="LsvHoaDon" HorizontalAlignment="Left" Height="352" VerticalAlignment="Top" Width="1169" Margin="-2,66,-0.333,0">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="STT" Width="30" DisplayMemberBinding="{Binding STT}"/>
+                                <GridViewColumn Header="Tên khách hàng" Width="150" DisplayMemberBinding="{Binding TenKhachHang}"/>
+                                <GridViewColumn Header="Số điện thoại" Width="80" DisplayMemberBinding="{Binding SoDienThoai}"/>
+                                <GridViewColumn Header="Địa chỉ" Width="100" DisplayMemberBinding="{Binding DiaChi}"/>
+                                <GridViewColumn Header="Tên sản phẩm" Width="80" DisplayMemberBinding="{Binding TenSanPham}"/>
+                                <GridViewColumn Header="Mã sản phẩm" Width="80" DisplayMemberBinding="{Binding MaSanPham}"/>
+                                <GridViewColumn Header="Số lượng" Width="60" DisplayMemberBinding="{Binding SoLuong}"/>
+                                <GridViewColumn Header="Giá" Width="70" DisplayMemberBinding="{Binding Gia}"/>
+                                <GridViewColumn Header="Chiết khấu" Width="70" DisplayMemberBinding="{Binding ChietKhau}"/>
+                                <GridViewColumn Header="Thành tiền" Width="100" DisplayMemberBinding="{Binding ThanhTien}"/>
+                                <GridViewColumn Header="Ngày mua" Width="70" DisplayMemberBinding="{Binding NgayMua}"/>
+                                <GridViewColumn Header="Phương thức thanh toán" Width="150" DisplayMemberBinding="{Binding PhuongThucThanhToan}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <TextBox x:Name="txtSearch" HorizontalAlignment="Left" Height="34" Margin="859,2,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="154" FontSize="14" FontFamily="Arial" />
+                    <Button x:Name="btnSearch" Content="Tìm kiếm" HorizontalAlignment="Stretch" Margin="760,2,327.667,490" VerticalAlignment="Stretch" FontSize="14" FontFamily="Arial" Click="btnTimKiem_Click"/>
+                    <Label Content="Nhập số điện thoại" HorizontalAlignment="Left" Margin="855,32,0,0" VerticalAlignment="Top" Height="34" Width="174" Foreground="#FF969191" FontStyle="Italic"/>
+                    <Label x:Name="lblSoDonHang" Content="" HorizontalAlignment="Left" Margin="603,2,0,0" VerticalAlignment="Top" Height="30" Width="127" FontSize="14" FontFamily="Arial" FontStyle="Italic"/>
+                    <Button x:Name="btnHuyTimKiem" Content="Hủy tìm kiếm" HorizontalAlignment="Stretch" Margin="1034,2,34.667,490" VerticalAlignment="Stretch" FontSize="14" FontFamily="Arial" Click="btnHuyTimKiem_Click"/>
+                    <Button x:Name="btnXuatHoaDon" Content="Xuất hóa đơn" HorizontalAlignment="Stretch" Margin="496,447,525.667,32" VerticalAlignment="Stretch" Width="145" Height="43" FontSize="20" FontFamily="Arial" Click="btnXuatHoaDon_Click" RenderTransformOrigin="0.5,0.504"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

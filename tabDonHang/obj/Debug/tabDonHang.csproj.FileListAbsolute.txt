@@ -1,0 +1,572 @@
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+C:\Users\Admin\source\repos\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\MainWindow.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\MainWindow.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\LoginForm.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\LoginForm.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\LoginForm.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\MainWindow.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\Trang_ThongTinChiTietNCC.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\LoginForm.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\MainWindow.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\Trang_ThongTinChiTietNCC.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\LoginForm.g.cs
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\LoginForm.baml
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormNhapHang.resources
+G:\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+G:\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+G:\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+G:\tabDonHang\tabDonHang\obj\Debug\LoginForm.g.cs
+G:\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+G:\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+G:\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+G:\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+G:\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+G:\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+G:\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+G:\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+G:\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+G:\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+G:\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+G:\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+G:\tabDonHang\tabDonHang\obj\Debug\LoginForm.baml
+G:\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+G:\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormNhapHang.resources
+G:\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+G:\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+G:\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+G:\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+G:\tabDonHang\tabDonHang\obj\Debug\MainWindow.g.cs
+G:\tabDonHang\tabDonHang\obj\Debug\MainWindow.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormNhapHang.resources
+C:\Users\Khang_Trang\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormBanHang.resources
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.g.cs
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.g.cs
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.baml
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.baml
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormBanHang.resources
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormNhapHang.resources
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\nguye\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormBanHang.resources
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormNhapHang.resources
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Downloads\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.g.cs
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.baml
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.baml
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormBanHang.resources
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormNhapHang.resources
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\Admin\Pictures\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.g.cs
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.g.cs
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.baml
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.baml
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormBanHang.resources
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormNhapHang.resources
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\nguye\Downloads\tabDonHang_26052020\tabDonHang_26052020\tabDonHang_25052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormBanHang.resources
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormNhapHang.resources
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignColors.dll
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\App.baml
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.dll
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.pdb
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.xml
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.dll
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignColors.dll
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.pdb
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.xml
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignColors.pdb
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.g.cs
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.g.cs
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\App.baml
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.baml
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.baml
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormBanHang.resources
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormNhapHang.resources
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.dll
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.pdb
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.xml
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\nguye\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.dll
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.pdb
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.xml
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Khang_Trang\Downloads\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.dll
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.dll
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignColors.dll
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.pdb
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.xml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.pdb
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.xml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\App.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormBanHang.resources
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormNhapHang.resources
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM 3\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.dll
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.dll
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignColors.dll
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.pdb
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.xml
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.pdb
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.xml
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignColors.pdb
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.g.cs
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.g.cs
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\SplashScreen.g.cs
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\App.baml
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.baml
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.baml
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\SplashScreen.baml
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormBanHang.resources
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormNhapHang.resources
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\nguye\OneDrive\Desktop\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.dll
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.dll
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.dll
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignColors.dll
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.pdb
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.xml
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.pdb
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.xml
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.pdb
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.xml
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignColors.pdb
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.g.cs
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.g.cs
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\SplashScreen.g.cs
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\App.baml
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.baml
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\MainWindow.baml
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\SplashScreen.baml
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormBanHang.resources
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormNhapHang.resources
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+G:\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.dll
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.dll
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignColors.dll
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.pdb
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\Dragablz.xml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.pdb
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.xml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\SplashScreen.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\App.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\DanhSachKhachHang.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\LoginForm.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\SplashScreen.baml
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormBanHang.resources
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormNhapHang.resources
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Documents\UEL\BÀI NHÓM CUỐI\tabDonHang_27052020_Final\tabDonHang_27052020\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\Dragablz.dll
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\LiveCharts.dll
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\MaterialDesignColors.dll
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\Dragablz.pdb
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\Dragablz.xml
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\LiveCharts.pdb
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\LiveCharts.xml
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\MaterialDesignColors.pdb
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\SplashScreen.g.cs
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\App.baml
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\SplashScreen.baml
+C:\Users\nguye\Downloads\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormBanHang.resources
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\Dragablz.dll
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\LiveCharts.dll
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\MaterialDesignColors.dll
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\Dragablz.pdb
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\Dragablz.xml
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\LiveCharts.pdb
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\LiveCharts.xml
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csprojAssemblyReference.cache
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\LoginForm.g.cs
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\SplashScreen.g.cs
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\App.g.cs
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\App.baml
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\LoginForm.baml
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\SplashScreen.baml
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormBanHang.resources
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\tabDonHang.FormNhapHang.resources
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\Khang_Trang\Documents\UEL\FINAL\tabDonHang\tabDonHang\obj\Debug\tabDonHang.pdb
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\tabDonHang.exe.config
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\tabDonHang.exe
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\tabDonHang.pdb
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\Dragablz.dll
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\EPPlus.dll
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\LiveCharts.dll
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\Dragablz.pdb
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\Dragablz.xml
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\EPPlus.xml
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\LiveCharts.pdb
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\LiveCharts.xml
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\tabDonHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\Han_MaiAnh.g.cs
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\LoginForm.g.cs
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\SplashScreen.g.cs
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\App.g.cs
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.cache
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\tabDonHang_MarkupCompile.lref
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\App.baml
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\Han_MaiAnh.baml
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\LoginForm.baml
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\SplashScreen.baml
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\tabDonHang.g.resources
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\tabDonHang.FormBanHang.resources
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\tabDonHang.FormNhapHang.resources
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\tabDonHang.Properties.Resources.resources
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\tabDonHang.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\tabDonHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\tabDonHang.csproj.CopyComplete
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\tabDonHang.exe
+C:\Users\Admin\Downloads\LIVRE_Totally Girls\LIVRE\tabDonHang\obj\Debug\tabDonHang.pdb
